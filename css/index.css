@@ -1,0 +1,25 @@
+*{
+    margin: 5px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+}
+.color{
+    color: orangered;
+}
+.text{
+    margin-top: 100px;
+    font-size: larger;
+    
+}
+.life{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.pera{
+    margin-top: 30px;
+    
+}
